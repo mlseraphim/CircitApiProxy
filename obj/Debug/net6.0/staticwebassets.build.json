@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "05mFWvcTLWSvuDnARBnGvErz34pDbGmGAcjh9SUc0qk=",
+  "Source": "CircitApiProxy",
+  "BasePath": "_content/CircitApiProxy",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
